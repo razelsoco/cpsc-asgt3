@@ -1,5 +1,5 @@
 # Analyis on Titanic Dataset
-This project is a simple data explorationa and analysis on the popular titanic dataset. In addition to basic summary statistics, simple statistical methods like chi-square test are also performed to test the association between variables.
+This project is a simple data exploration and analysis on the popular titanic dataset. In addition to basic summary statistics, simple statistical methods like chi-square test are also performed to test the association between variables.
 
 ## Directory Structure
 
